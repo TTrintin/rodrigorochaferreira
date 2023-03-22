@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Rodrigo Da Rocha Ferreira 😁
 
  <div>
-   <a href="https://github.com/EthicalCodeRRF">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EthicalCodeRRF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthicalCodeRRF&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/rodrigorochaferreira">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigorochaferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorochaferreira&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -21,6 +21,6 @@
  <a href="https://discord.gg/3vttYE9t" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigorochaferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/EthicalCodeRRF/EthicalCodeRRF/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rodrigorochaferreira/rodrigorochaferreira/blob/output/github-contribution-grid-snake.svg)
 
 </div>
