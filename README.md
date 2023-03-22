@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Rodrigo Da Rocha Ferreira 😁
+## Bem-vindo(a) ao perfil do Rodrigo 😁
 
  <div>
    <a href="https://github.com/rodrigorochaferreira">
